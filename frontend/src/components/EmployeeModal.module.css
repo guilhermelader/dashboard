@@ -1,0 +1,13 @@
+/* components/EmployeeModal.module.css */
+
+.modalContent {
+  padding: 20px;
+}
+
+.submitButton {
+  margin-right: 10px;
+}
+
+.cancelButton {
+  margin-left: 10px;
+}

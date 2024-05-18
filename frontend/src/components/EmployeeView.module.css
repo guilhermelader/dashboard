@@ -1,0 +1,24 @@
+.employeeView {
+  padding: 20px;
+}
+
+.addButton {
+  margin-bottom: 20px;
+}
+
+.employeeTable {
+  width: 100%;
+}
+
+.employeeActions {
+  display: flex;
+  gap: 10px;
+}
+
+.editButton {
+  margin-right: 10px;
+}
+
+.deleteButton {
+  margin-left: 10px;
+}
